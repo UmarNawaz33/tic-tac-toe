@@ -4,7 +4,7 @@
 This is a simple React application that allows two players to play tic tac toe game. The app is built using modern tools and concepts, including **Vite**, **React**, **Props**, and **State**.
 
 ## Demo
-https://umarnawaz33.github.io/tic-tac-toe-app/
+https://umarnawaz33.github.io/tic-tac-toe/
 
 ## Features
 
@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/UmarNawaz33/tic-tac-toe-app.git
+   git clone https://github.com/UmarNawaz33/tic-tac-toe.git
 2. Install Packages:
    ```bash
    npm install
